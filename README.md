@@ -1,4 +1,4 @@
-# FoodPanda-food-app
+# FoodZone-food-app
 In this project I have used Swiggy live API to fetch all the data through CORS.
 
 🚀 React js as a UI library.
